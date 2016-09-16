@@ -122,16 +122,16 @@ else
   fi
   fi
   
-  chmod 777 TH3_Evil.lua
+  chmod 777 KING.TELE.lua
   
   #Adding some color. By @MehdiHS
    echo -e "\033[38;5;208m"
-   echo -e "     > DEV : SAJJAD HUSSIEN                                          "
-   echo -e "     > DEV : @TH3_Evil                                           "
-   echo -e "     > Bot ID : DEV : @sajjad_aliraqi_bot                       "
-   echo -e "     > Github : https://github.com/blackops97/TH3_Evil    "
-   echo -e "          BY sajjad hussien                                   \033[0;00m"
+   echo -e "     > DEV :BAKURY &SADIK                                          "
+   echo -e "     > DEV : @illOlli                                           "
+   echo -e "     >  DEV2: @Sadikal_knani10                       "
+   echo -e "     > Github : https://github.com/blackops97/KING.TELE   "
+   echo -e "          BY BAKURY &SADIK                                   \033[0;00m"
    echo -e "\e[36m"
   rm -r ../.telegram-cli/state #Prevent tg from crash
-  ./tg/bin/telegram-cli -k ./tg/tg-server.pub -s ./bot/TH3_Evil.lua -l 1 -E $@
+  ./tg/bin/telegram-cli -k ./tg/tg-server.pub -s ./bot/KING.TELE.lua -l 1 -E $@
 fi
