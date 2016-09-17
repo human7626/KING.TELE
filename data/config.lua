@@ -25,7 +25,7 @@ about_text = "🔸Welcome to KING.TELE v6.0 For more information Subscribe to th
     "leave_ban",
     "msg_checks",
     "newgroup",
-    "@illOlii",
+    "illOlii",
     "help1",
     "help2",
     "help3",
