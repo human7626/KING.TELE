@@ -1,41 +1,47 @@
--(¯`بّےـكےـوُرَيّےـ آبّےـنٌےـ آلَآنٌےـبّےـآرَ´¯)-»  ٍ:
-Let's install the bot.
-افتـح ترمنـــأل وخلي   
 
-sudo apt-get update 
-ــــــ ــــــ ــــــ ــــــ ــــــ ــــــ
-ورهأَ خلي  
+لتــنصيب سورس KING TELE
 
-redis-server 
-ــــــ ــــــ ــــــ ــــــ ــــــ ــــــ
-تركه مفتوح    
-ــــــ ــــــ ــــــ ــــــ ــــــ
-وفتح ترمنال ثاني وخلي    
-ــــــ ــــــ ــــــ ــــــ ــــــ
-ورهأ خلي    
+احدث سورس حالياً 🙂👏🏻
+_______________________
 
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes
+خلي الكود هہ⇓ّٰـذا بلترمنال ودوس انتر 🏅 👇🏻
 
-ــــــ ــــــ ــــــ ــــــ ــــــ ــــــ
-ورأهأَ خلي  
+sudo apt-get update
+
+_________________________
+
+ووراها هذن الاوامر 🏅👇🏻
+
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
+➖➖➖➖➖➖➖➖➖
+وراهة هہّٰ⇓ـاي وهم دوس انتر 🏅👇🏻
+
+sudo apt-get upgrade
+
+➖➖➖➖➖➖➖➖➖
+وراهة هہّٰ⇓ـاي وهم دوس انتر 🏅👇🏻
 
 git clone https://github.com/blackops97/KING.TELE.git
-ــــــ ــــــ ــــــ ــــــ ــــــ ــــــ
-ورهأ خلي    
+
+➖➖➖➖➖➖➖➖➖
+وراهة هہّٰ⇓ـاي وهم دوس انتر 🏅👇🏻
 
 cd KING.TELE
-ــــــ ــــــ ــــــ ــــــ ــــــ ــــــ
-ورهأَ خلي 
+
+➖➖➖➖➖➖➖➖➖
+وراهة هہّٰ⇓ـاي وهم دوس انتر 🏅👇🏻
 
 chmod +x launch.sh
-ــــــ ــــــ ــــــ ــــــ ــــــ ــــــ
-ورهأَ خلي 
+➖➖➖➖➖➖➖➖➖
+وراهة هہّٰ⇓ـاي وهم دوس انتر 🏅👇🏻
 
 ./launch.sh install
-ــــــ ــــــ ــــــ ــــــ ــــــ ــــــ
-يطلب رقم خلي رقم البوت 
-مبروك عليك افضل بوت عل تلي 
-
-عندك استفسار او اي شي راسلني
+➖➖➖➖➖➖➖➖➖
+ملاحظة انتطر لحد ميكمل ويطلب رقم تلفون
+ملاحظه :- سورس مو نقص كود بس هو مختصر 
+➖➖➖➖➖➖➖➖➖
+لستفسار تحــدث مع احــد المــطورين 
 @illOlli
-@Sadikal_knani10 
+@Sadikal_knani10
+واذا محظور هنا 
+@twsl_BABOT
