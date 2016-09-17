@@ -33,7 +33,7 @@ about_text = "🔸Welcome to KING.TELE v6.0 For more information Subscribe to th
     "helpsudo",
     "devs",
     "ar-devs",
-    "TH3_Evil7",
+    "@KINGTELE1",
     "owners",
     "set",
     "stats",
@@ -43,7 +43,6 @@ about_text = "🔸Welcome to KING.TELE v6.0 For more information Subscribe to th
     "serverinfo",
     "ar-me",
     "ar-badword",
-    "en_version",
     "replay",
     "ar-supergroup"
   },
@@ -54,8 +53,8 @@ about_text = "🔸Welcome to KING.TELE v6.0 For more information Subscribe to th
     data = "data/moderation.json"
   },
   sudo_users = {
-    113644348,
-    0,
+    241857359,
+    55197430,
   }
 }
 return _
